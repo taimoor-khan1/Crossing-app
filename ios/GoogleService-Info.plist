@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>190940583565-vkhatt77aoeo043s1ibouoeg45sf7dpk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.190940583565-vkhatt77aoeo043s1ibouoeg45sf7dpk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>190940583565-b0mna2qd54js4g6kn72h6t3ov0ptsbv2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGlQenJ7TDk_eczKEE3kp6CdzdywhgtmQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>190940583565</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.demochart.app</string>
+	<key>PROJECT_ID</key>
+	<string>demochart-live</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demochart-live.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:190940583565:ios:8b031a54e6c524bf0db4c4</string>
+</dict>
+</plist>

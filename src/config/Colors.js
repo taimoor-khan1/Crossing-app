@@ -1,0 +1,25 @@
+const colors = {
+  backGroundColor: '#F9FAFA',
+  white: '#fff',
+  black: '#000000',
+  transparent: 'transparent',
+  blue: '#006FE8',
+  red: '#FF170A',
+  lightGrey: '#E7E7E8',
+  blue: '#006FE8',
+  lightBlue: '#3395FF',
+  textBlue: '#007AFF',
+  red: '#FF170A',
+  textGrey: '#0E1014',
+  greyWhite: '#E7E7E8',
+  darkGrey: '#909193',
+  background: '#F9FAFA',
+  borderGrey: ' #B4B5B6',
+  lowBlack: '#060708D0',
+  transparent: 'transparent',
+  darkGreyText: '#5E5F62',
+  dotPointBackground: '#3E4043',
+  greenText: '#2EAE4E',
+};
+
+export default colors;

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "470753980236",
+    "project_id": "crossingz-develop",
+    "storage_bucket": "crossingz-develop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470753980236:android:4bf1dab8bf298aeea569e9",
+        "android_client_info": {
+          "package_name": "com.crossings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470753980236-ginnhu9fa72vu04j6dbbctlqfpq5l6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSv7oQr_XYCeMM0987EwPzdVa8h04FK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470753980236-ginnhu9fa72vu04j6dbbctlqfpq5l6nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470753980236-rv5jgbn5afujvfdj564n04r9mrini4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crossings"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
